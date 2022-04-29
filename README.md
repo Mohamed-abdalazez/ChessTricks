@@ -6,6 +6,6 @@
  - [lichess.org](https://lichess.org/analysis)
 
 
-##### The Games
+##### The Games.
 
 - Italian Game: Fried Liver Attack
