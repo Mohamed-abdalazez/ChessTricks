@@ -8,4 +8,4 @@
 
 ##### The Games.
 
-- Italian Game: Fried Liver Attack
+- Italian Game: Fried Liver Attack.
